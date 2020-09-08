@@ -1,0 +1,40 @@
+{
+  "name": "counter-app",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "11.10.0",
+    "npm": "6.7.0"
+  },
+  "homepage": "https://arnab-datta.github.io/counter-app",
+  "dependencies": {
+    "body-parser": "*",
+    "bootstrap": "^4.5.0",
+    "express": "*",
+    "font-awesome": "^4.7.0",
+    "mongoose": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-final-form": "*",
+    "react-final-form-listeners": "*",
+    "react-mapbox-gl": "*",
+    "react-redux": "*",
+    "react-responsive-modal": "*",
+    "react-scripts": "^3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
